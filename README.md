@@ -20,10 +20,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Resource group and virtual machine
+- Create domain controller and client 1 and ensure connectivity between them
+- Install Active Directory Domain Services on DC-1 
+- Create bunch of new users using Power Shell ISE as an administrator
 
 <h2>Deployment and Configuration Steps</h2>
 
